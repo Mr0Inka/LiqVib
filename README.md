@@ -9,3 +9,11 @@ Cost:
 - 2$ for 10 vibration motors
 - 0.15$ for each capacitor
 - Depending on the shape, a few dollars for having someone print an enclosure externally
+
+Assembly:  
+- Order PCBs (for example from JLCPCB.com) by uploading the Gerber files. There is no need to change any settings. Just upload and order.  
+- Solder the battery holder to the PCB (big circle)
+- Glue the Vibration motor to the pcb using it's double sided adhesive tape and solder the red wire to "red" and the black wire to "black"
+- Stick the Capacitor's three pins through the capcitor holds and solder them on
+- Remove any excess cable/pins that stick out on the back
+- Solder any kind of wire or cable to the two big solder areas on the backside - these will be probes that will activate the motor once they both touch a liquid.
