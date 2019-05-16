@@ -1,4 +1,4 @@
-![TopImage](https://i.imgur.com/JSuWUKv.png)
+![TopImage](https://i.imgur.com/x3hRF6h.png)
 
 LiqVib is a liquid sensor for blind people. While most blind people use a finger to feel the liquid rise while pouring a drink into a glass, hot drinks like coffee or tea could be a major problem. There are solutions for this available, but they sound like a fire alarm and will wake up the whole neighborhood. LiqVib is a tiny, extremely low cost PCB solution that replaces this classic functionality with a vibration motor. It's exterior can be 3D printed.  
 
