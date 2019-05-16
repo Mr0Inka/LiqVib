@@ -25,4 +25,4 @@ LiqVib is a liquid sensor for blind people. While most blind people use a finger
 
 
 
-![PCB Overview](https://i.imgur.com/4NC9sBP.png)
+![PCB Overview](https://i.imgur.com/ECWN8Vo.png)
