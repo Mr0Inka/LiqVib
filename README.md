@@ -21,3 +21,8 @@ LiqVib is a liquid sensor for blind people. While most blind people use a finger
 - Stick the Capacitor's three pins through the capcitor holds and solder them on
 - Remove any excess cable/pins that stick out on the back
 - Solder any kind of wire or cable to the two big solder areas on the backside - these will be probes that will activate the motor once they both touch a liquid.
+
+
+
+
+![PCB Overview](https://i.imgur.com/4NC9sBP.png)
